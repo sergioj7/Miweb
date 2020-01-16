@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi web
 
 You can use the [editor on GitHub](https://github.com/sergioj7/Miweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
